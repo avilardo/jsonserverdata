@@ -8,9 +8,9 @@
   "profile": {
     "name": "vilardo"
   },
-  "EmissaoPortalRural":[
+  "EmissaoPortalRural" : 
     {
        "message" : "Funciona"
     }
-  ]
+  
 }
