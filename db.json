@@ -7,5 +7,10 @@
   ],
   "profile": {
     "name": "vilardo"
-  }
+  },
+  "EmissaoPortalRural":[
+    {
+       "message" : "Funciona"
+    }
+  ]
 }
